@@ -6,7 +6,7 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/shweta-kashyap-7629ab36a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/ShwetaKashyap-7629ab36a) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shwetashweta82069@gmail.com) 
 
 # 💻 Tech Stack:
